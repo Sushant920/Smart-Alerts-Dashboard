@@ -1,12 +1,24 @@
-# React + Vite
+# 🚀 Smart Alerts - API-Based Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Smart Alerts is a modern API-based dashboard that provides real-time updates on **Weather, Stocks, Crypto, and News**. Built with **React, Vite, Tailwind CSS, and React Router**, it offers a sleek and interactive UI with dynamic API fetching.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔹 Features
 
-## Expanding the ESLint configuration
+✅ **Live Weather Updates** 🌤️ - Fetches and displays real-time weather information.  
+✅ **Stock Market Tracking** 📈 - Displays latest stock trends and prices.  
+✅ **Cryptocurrency Prices** 🪙 - Fetches live crypto market data.  
+✅ **News Aggregation** 📰 - Pulls latest news from various sources.  
+✅ **Alerts System** 🔔 - Displays important notifications.  
+✅ **Modern UI** 🎨 - Tailwind CSS-based styling with dark mode support.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📌 Tech Stack
+
+- **Frontend:** React + Vite
+- **Styling:** Tailwind CSS
+- **Routing:** React Router
+- **Icons:** React Icons
+- **APIs Used:** OpenWeatherMap, Alpha Vantage, CoinGecko, NewsAPI
