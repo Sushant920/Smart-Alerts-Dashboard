@@ -1,4 +1,4 @@
-const API_KEY = 'D6P7L8BS0Y2LFSAH'; 
+const API_KEY = 'Your_API_Key'; 
 
 export async function fetchStockData(symbol) {
   try {

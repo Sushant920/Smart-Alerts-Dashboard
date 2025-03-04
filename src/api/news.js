@@ -1,4 +1,4 @@
-const API_KEY = 'pub_730980bfb3ba7264a8bf4cd0f83f7f8346ffe';
+const API_KEY = 'Your_API_Key';
 
 export async function fetchNewsData(query = 'latest', language = 'en') {
   try {

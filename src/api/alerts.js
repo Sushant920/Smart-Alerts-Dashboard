@@ -1,4 +1,4 @@
-const API_KEY = '09baa33602018c2c80bdcb1ab3f1f9d5';
+const API_KEY = 'Your_API_Key';
 
 export async function fetchWeatherAlerts(lat = 19.07, lon = 72.87) {
     try {
